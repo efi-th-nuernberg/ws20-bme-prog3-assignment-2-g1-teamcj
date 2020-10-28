@@ -91,3 +91,4 @@ private static int format; //1 für links, 2 für rechts, 3 mittig
    return second;
   }
 }
+
